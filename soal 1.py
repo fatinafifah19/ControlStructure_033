@@ -13,4 +13,3 @@ elif percentage >=60:
 else:
     print("Below average performance")
 
-    
